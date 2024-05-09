@@ -15,3 +15,7 @@
 
 
 ![070ry's GitHub stats](https://github-readme-stats.vercel.app/api?username=070ry&show_icons=true)
+
+> [!Important]
+>
+> 1つのリポジトリに1つはREADME.mdを同梱しろ(戒め)
