@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=070ry&label=Profile%20views&color=00ff2a&style=for-the-badge" alt="070ry" /> </p>
 
-- My Twitter: [@1u0704](https://twitter.com/1u0704)
+- My Website: https://070ry-hp.pages.dev
 
-- My Discord: [cfor こみゅふぉー](https://discord.gg/FM6PAQuAhv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
