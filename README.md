@@ -6,8 +6,6 @@
 </div>
 
 - My Website: https://070ry-hp.pages.dev
-- 
-
 
 <div align="center">
 <h2>SNS</h2>
