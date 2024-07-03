@@ -17,11 +17,8 @@ My Website: https://070ry-hp.pages.dev
 <a href="//www.youtube.com/@070ry" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@070ry" height="30" width="40" /></a>
 <br><br><a href="//discord.com/users/1072283404722257950"><img src="https://discord.c99.nl/widget/theme-2/1072283404722257950.png" alt="@i14a" /></a>
 <br><br>
-<h2>GitHub stats</h2>  
-<a href="//github.com/070ry">
-  <img src="https://github-readme-stats.vercel.app/api?username=070ry&show_icons=true" alt="Github readme Status">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=070ry" alt="Github readme Status">
-</a>
+<h2>GitHub stats</h2>
+<a href="//github.com/070ry"><img height="200" src="https://github-readme-stats.vercel.app/api?username=070ry&show_icons=true&theme=onedark" alt="Github readme Status">
+<a href="//github.com/070ry"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=070ry&layout=compact&theme=onedark" alt="Github readme Status"></a>
 <br>
 </div>
