@@ -5,7 +5,11 @@
   <br>
 </div>
 
-- My Website: https://070ry-hp.pages.dev
+My Website: https://070ry-hp.pages.dev
+
+> [!Important]
+>
+> 1つのリポジトリに1つはREADME.mdを同梱しろ(戒め)
 
 <div align="center">
 <h2>SNS</h2>
@@ -21,7 +25,3 @@
 </a>
 <br>
 </div>
-
-> [!Important]
->
-> 1つのリポジトリに1つはREADME.mdを同梱しろ(戒め)
