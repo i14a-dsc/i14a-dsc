@@ -1,19 +1,28 @@
-<h1 align="center">★ 070ry</h1>
-<h3 align="center">I hate github :rage:</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=070ry&label=Profile%20views&color=00ff2a&style=for-the-badge" alt="070ry" /> </p>
+<div align="center">
+  <h1>070ry</h1>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=070ry&label=Profile%20views&color=00ff2a&style=for-the-badge" alt="070ry" />
+  <br>
+</div>
 
 - My Website: https://070ry-hp.pages.dev
+- 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/1u0704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1u0704" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@070ry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@070ry" height="30" width="40" /></a>
-<a href="https://misskey.io/@i14a" target="blank"><img align="center" src="https://raw.githubusercontent.com/misskey-dev/assets/main/icon.png" alt="@i14a" height="40" width="40"></a></p>
-
-
-![070ry's GitHub stats](https://github-readme-stats.vercel.app/api?username=070ry&show_icons=true)
+<div align="center">
+<h2>SNS</h2>
+<a href="//twitter.com/1u0704" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1u0704" height="30" width="40" /></a>
+<a href="//www.youtube.com/@070ry" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@070ry" height="30" width="40" /></a>
+<br><br><a href="//discord.com/users/1072283404722257950"><img src="https://discord.c99.nl/widget/theme-2/1072283404722257950.png" alt="@i14a" /></a>
+<br><br>
+<h2>GitHub stats</h2>  
+<a href="//github.com/070ry">
+  <img src="https://github-readme-stats.vercel.app/api?username=070ry&show_icons=true" alt="Github readme Status">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=070ry" alt="Github readme Status">
+</a>
+<br>
+</div>
 
 > [!Important]
 >
