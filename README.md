@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>070ry</h1>
+  <h1>i14a-dsc</h1>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=070ry&label=Profile%20views&color=00ff2a&style=for-the-badge" alt="070ry" />
+  <img src="https://komarev.com/ghpvc/?username=i14a-dsc&label=Profile%20views&color=00ff2a&style=for-the-badge" alt="i14a-dsc" />
   <br>
 </div>
 
@@ -18,7 +18,7 @@ My Website: https://070ry-hp.pages.dev
 <br><br><a href="//discord.com/users/1072283404722257950"><img src="https://discord.c99.nl/widget/theme-2/1072283404722257950.png" alt="@i14a" /></a>
 <br><br>
 <h2>GitHub stats</h2>
-<a href="//github.com/070ry"><img height="200" src="https://github-readme-stats.vercel.app/api?username=070ry&show_icons=true&theme=onedark" alt="Github readme Status">
-<a href="//github.com/070ry"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=070ry&layout=compact&theme=onedark" alt="Github readme Status"></a>
+<a href="//github.com/i14a-dsc"><img height="200" src="https://github-readme-stats.vercel.app/api?username=i14a-dsc&show_icons=true&theme=onedark" alt="Github readme Status">
+<a href="//github.com/i14a-dsc"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i14a-dsc&layout=compact&theme=onedark" alt="Github readme Status"></a>
 <br>
 </div>
